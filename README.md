@@ -1,2 +1,0 @@
-# minesweeper
-LCNC minesweeper
